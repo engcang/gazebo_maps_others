@@ -1,5 +1,9 @@
 # Gazebo-classic map for exploration simulation
-- This repository has the slightly modified version of the Gazebo-classic maps that others made or publicized
+
+### This repository has the slightly modified version of the Gazebo-classic maps that others made or publicized
+
+### For license, please refer to the original repositories.
+
 - DARPA SubT cave map - I removed the unnecessary files and added the transparent cover at the entrance
     - From [this repo](https://github.com/LTU-RAI/darpa_subt_worlds)
         ```tex
